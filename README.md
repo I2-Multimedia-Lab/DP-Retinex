@@ -1,6 +1,5 @@
 ## 📘 README.md（建议内容如下）
 
-````markdown
 # 🌙 DP-Retinex: A Diffusion-Based Retinex Framework for Low-Light Image Enhancement
 
 Welcome to **DP-Retinex**! This repository provides a powerful, Retinex-theory-inspired image enhancement model built with PyTorch 🧠. Whether you're working on night-time photography, autonomous vision, or general low-level vision tasks, this toolkit is made for you! 💡
@@ -74,26 +73,3 @@ DP-Retinex/
 import torch
 print(torch.cuda.is_available())
 ```
-
-* 📩 Having issues? Open an [Issue](https://github.com/I2-Multimedia-Lab/DP-Retinex/issues) or start a Discussion!
-
----
-
-## 📜 License
-
-This repository is released under the **MIT License**. See [LICENSE](./LICENSE) for details.
-
----
-
-## 🧠 Acknowledgements
-
-Built upon [BasicSR](https://github.com/XPixelGroup/BasicSR) with ❤️ from the I2 Multimedia Lab.
-
----
-
-> 🌌 *"Let there be light—even in the darkest pixels."*
-> — *DP-Retinex*
-
-````
-
-
