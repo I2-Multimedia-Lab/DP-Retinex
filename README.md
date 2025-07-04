@@ -51,13 +51,17 @@ python setup.py develop --no_cuda_ext
 
 ```
 DP-Retinex/
-├── basicsr/               # Core image restoration framework
-├── data/                  # Dataset definitions
-├── options/               # Training/validation config files
-├── scripts/               # Utility and batch scripts
-├── setup.py               # For develop mode installation
-├── requirements.txt       # Dependency list
-└── README.md              # You're here 😉
+├── basicsr/                      # Core image restoration framework (based on BasicSR)
+├── Enhancement/                  # Scripts for evaluation and inference (test_from_dataset.py, etc.)
+├── Options/                      # YAML configuration files for different datasets & experiments
+├── pretrained_weights/           # (You should manually place downloaded model weights here)
+
+├── data/                         # (You should place LOLv1/LOLv2/SDSD datasets here)
+  
+├── requirements.txt              # Python dependencies
+├── setup.py                      # Package setup file for develop mode
+└── README.md                     # You're here 😄
+
 ```
 
 ## 📥 Dataset & Weights Download
