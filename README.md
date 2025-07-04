@@ -109,15 +109,6 @@ python3 Enhancement/test_from_dataset.py \
   --weights pretrained_weights/LOLv1_best_psnr_23.48_109000.pth
 ```
 
-or using model from your local experiment folder:
-
-```bash
-python3 Enhancement/test_from_dataset.py \
-  --opt Options/Retinex_Degradation_LOL_v1.yml \
-  --weights experiments/Retinex_Degradation_LOL_v1/best_psnr_23.48_109000.pth \
-  --dataset LOL_v1
-```
-
 ---
 
 ### ▶️ LOLv2
