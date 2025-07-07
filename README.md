@@ -1,4 +1,4 @@
-# 🌙 DP-Retinex: A Diffusion-Based Retinex Framework for Low-Light Image Enhancement
+# 🌙 DP-Retinex: Dual-Prior Guided Low-Light Image Enhancement with YUV-Domain Reflectance-Illumination Decomposition
 
 Welcome to **DP-Retinex**! This repository provides a powerful, Retinex-theory-inspired image enhancement model built with PyTorch 🧠. Whether you're working on night-time photography, autonomous vision, or general low-level vision tasks, this toolkit is made for you! 💡
 
