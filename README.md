@@ -205,12 +205,17 @@ If you find this work useful, please consider citing our paper:
 
 如果你觉得这项工作有用，请考虑引用我们的论文：
 ```bibtex
-@article{your-paper,
-  title={DP-Retinex: Dual-Prior Guided Low-Light Image Enhancement},
-  author={Your Name},
-  journal={Your Journal},
-  year={2024}
-}
+@ARTICLE{11339941,
+  author={Zhao, Zhengkai and Gao, Longmi and Gao, Pan and Qin, Jie},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={DP-Retinex: Dual-Prior Guided Low-Light Image Enhancement with YUV-Domain Reflectance-Illumination Decomposition}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Image color analysis;Lighting;Image enhancement;Feature extraction;Transformers;Image restoration;Reflectivity;Nonlinear distortion;Diffusion models;Degradation;Low-Light Image Enhancement;Dual Priors;YUV Color Space;Diffusion-Transformer Hybrid},
+  doi={10.1109/TCSVT.2026.3651859}}
+
 ```
 
 ---
