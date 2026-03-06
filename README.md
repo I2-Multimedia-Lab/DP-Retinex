@@ -54,6 +54,67 @@ pretrained_weights/
 
 ---
 
+## 🖼️ Visualization Results | 可视化结果
+
+We provide visualization results on several benchmarks for qualitative comparison.
+
+我们提供了多个数据集上的可视化结果，用于定性对比分析。
+
+### LOL Benchmark Results
+
+For the **LOL series datasets**, we provide results under two settings:
+
+对于 **LOL 系列数据集**，我们提供两种设置下的可视化结果：
+
+- **GT-mean**: brightness aligned using the ground-truth mean  
+- **noGT-mean**: original output without brightness alignment  
+
+| Result Type | Download |
+|-------------|----------|
+| **Our results (no GT-mean)** | [Google Drive](https://drive.google.com/file/d/1qglf2fqWBHJflToJOBSoc2u8ICZGHe4z/view?usp=sharing) |
+| **Our results (GT-mean)** | [Google Drive](https://drive.google.com/file/d/1qglf2fqWBHJflToJOBSoc2u8ICZGHe4z/view?usp=sharing) |
+| **Other methods on LOL (GT-mean)** | [Google Drive](https://drive.google.com/file/d/1oqKuIn3-_PjgzuPbH-gGI0R7MUF9YCb9/view?usp=sharing) |
+
+### Included Datasets
+
+The visualization results include the following datasets:
+
+结果包含以下数据集：
+
+**Paired datasets (有 GT)**  
+- **LOLv1**
+- **LOLv2-real**
+- **LOLv2-synthetic**
+- **SDSD-indoor**
+- **SDSD-outdoor**
+
+**No-reference datasets (无 GT)**  
+- **LIME**
+- **DICM**
+- **VV**
+- **NPE**
+- **MEF**
+
+Please organize them as:
+
+```bash
+visualization_results/
+│
+├── LOLv1/
+├── LOLv2_real/
+├── LOLv2_syn/
+├── SDSD_indoor/
+├── SDSD_outdoor/
+│
+├── LIME/
+├── DICM/
+├── VV/
+├── NPE/
+└── MEF/
+
+
+---
+
 ## 🚀 Installation Guide | 安装指南
 
 ### ✅ Step 1: Create a Conda Environment | 步骤1：创建 Conda 环境
