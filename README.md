@@ -81,39 +81,11 @@ The visualization results include the following datasets:
 
 结果包含以下数据集：
 
-**Paired datasets (有 GT)**  
-- **LOLv1**
-- **LOLv2-real**
-- **LOLv2-synthetic**
-- **SDSD-indoor**
-- **SDSD-outdoor**
-
-**No-reference datasets (无 GT)**  
-- **LIME**
-- **DICM**
-- **VV**
-- **NPE**
-- **MEF**
-
-Please organize them as:
-
-```bash
-visualization_results/
-│
-├── LOLv1/
-├── LOLv2_real/
-├── LOLv2_syn/
-├── SDSD_indoor/
-├── SDSD_outdoor/
-│
-├── LIME/
-├── DICM/
-├── VV/
-├── NPE/
-└── MEF/
+**Paired datasets (有 GT):** LOLv1, LOLv2-real, LOLv2-synthetic, SDSD-indoor, SDSD-outdoor  
+**No-reference datasets (无 GT):** LIME, DICM, VV, NPE, MEF
 
 
----
+```
 
 ## 🚀 Installation Guide | 安装指南
 
