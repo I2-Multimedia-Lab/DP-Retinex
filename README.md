@@ -13,9 +13,15 @@ Welcome to **DP-Retinex**! This repository provides a powerful, Retinex-theory-i
 
 To evaluate our model, please download the **LOLv1** and **LOLv2** datasets from the following links:
 
-为了评估我们的模型，请从以下链接下载 **LOLv1** 和 **LOLv2** 数据集：
+为了评估我们的模型，请从以下链接下载 **LOLv1** 和 **LOLv2** 数据集。
 
-🔗 **Google Drive | 谷歌云盘**: [Download LOLv1 / LOLv2 Dataset]([https://drive.google.com/file/d/1cKj4t45AxGJjK4Z2v-T1hMjhSnSNlJjC/view?usp=drive_link](https://drive.google.com/file/d/1oqKuIn3-_PjgzuPbH-gGI0R7MUF9YCb9/view?usp=drive_link, https://drive.google.com/file/d/1ZghP88xnurZm3op4_05Ap7gvb3JK_O1V/view?usp=drive_link)
+#### LOLv1
+🔗 **Google Drive**:  
+https://drive.google.com/file/d/16ShfICyRRf2bDaTW8JnP87Sq4abha84U/view?usp=sharing
+
+#### LOLv2
+🔗 **Google Drive**:  
+https://drive.google.com/file/d/1cKj4t45AxGJjK4Z2v-T1hMjhSnSNlJjC/view?usp=drive_link
 
 🔗 **Baidu Netdisk | 百度网盘**: [https://pan.baidu.com/s/11VeVUmJKovOJsYqS3v2Tkw](https://pan.baidu.com/s/11VeVUmJKovOJsYqS3v2Tkw)  
 **提取码 | Extraction Code**: `9vph`
