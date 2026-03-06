@@ -15,11 +15,11 @@ To evaluate our model, please download the **LOLv1** and **LOLv2** datasets from
 
 为了评估我们的模型，请从以下链接下载 **LOLv1** 和 **LOLv2** 数据集。
 
-#### LOLv1
-🔗 **Google Drive**:  https://drive.google.com/file/d/16ShfICyRRf2bDaTW8JnP87Sq4abha84U/view?usp=sharing
+| Dataset | Download |
+|--------|---------|
+| **LOLv1** | [Google Drive](https://drive.google.com/file/d/16ShfICyRRf2bDaTW8JnP87Sq4abha84U/view?usp=sharing) |
+| **LOLv2** | [Google Drive](https://drive.google.com/file/d/1cKj4t45AxGJjK4Z2v-T1hMjhSnSNlJjC/view?usp=drive_link) |
 
-#### LOLv2
-🔗 **Google Drive**:  https://drive.google.com/file/d/1cKj4t45AxGJjK4Z2v-T1hMjhSnSNlJjC/view?usp=drive_link
 
 🔗 **Baidu Netdisk | 百度网盘**: [https://pan.baidu.com/s/11VeVUmJKovOJsYqS3v2Tkw](https://pan.baidu.com/s/11VeVUmJKovOJsYqS3v2Tkw)  
 **提取码 | Extraction Code**: `9vph`
