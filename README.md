@@ -17,8 +17,8 @@ To evaluate our model, please download the **LOLv1** and **LOLv2** datasets from
 
 | Dataset | Download |
 |--------|---------|
-| **LOLv1** | [Google Drive](https://drive.google.com/file/d/16ShfICyRRf2bDaTW8JnP87Sq4abha84U/view?usp=sharing) |
-| **LOLv2** | [Google Drive](https://drive.google.com/file/d/1cKj4t45AxGJjK4Z2v-T1hMjhSnSNlJjC/view?usp=drive_link) |
+| **LOLv1** | [Google Drive LOLv1](https://drive.google.com/file/d/16ShfICyRRf2bDaTW8JnP87Sq4abha84U/view?usp=sharing) |
+| **LOLv2** | [Google Drive LOLv2](https://drive.google.com/file/d/1cKj4t45AxGJjK4Z2v-T1hMjhSnSNlJjC/view?usp=drive_link) |
 
 **Baidu Netdisk | 百度网盘**
 
