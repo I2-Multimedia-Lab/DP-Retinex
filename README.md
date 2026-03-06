@@ -72,7 +72,7 @@ For the **LOL series datasets**, we provide results under two settings:
 | Result Type | Download |
 |-------------|----------|
 | **Our results (no GT-mean)** | [Google Drive](https://drive.google.com/file/d/1qglf2fqWBHJflToJOBSoc2u8ICZGHe4z/view?usp=sharing) |
-| **Our results (GT-mean)** | [Google Drive](https://drive.google.com/file/d/1qglf2fqWBHJflToJOBSoc2u8ICZGHe4z/view?usp=sharing) |
+| **Our results (GT-mean)** | [Google Drive]((https://drive.google.com/file/d/15ky4YNYcud_xHwKKA5hBVXPCOZKF7nTp/view?usp=sharing)) |
 | **Other methods on LOL (GT-mean)** | [Google Drive](https://drive.google.com/file/d/1oqKuIn3-_PjgzuPbH-gGI0R7MUF9YCb9/view?usp=sharing) |
 
 ### Included Datasets
