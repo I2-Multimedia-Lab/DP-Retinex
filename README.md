@@ -20,9 +20,10 @@ To evaluate our model, please download the **LOLv1** and **LOLv2** datasets from
 | **LOLv1** | [Google Drive](https://drive.google.com/file/d/16ShfICyRRf2bDaTW8JnP87Sq4abha84U/view?usp=sharing) |
 | **LOLv2** | [Google Drive](https://drive.google.com/file/d/1cKj4t45AxGJjK4Z2v-T1hMjhSnSNlJjC/view?usp=drive_link) |
 
+**Baidu Netdisk | 百度网盘**
 
-🔗 **Baidu Netdisk | 百度网盘**: [https://pan.baidu.com/s/11VeVUmJKovOJsYqS3v2Tkw](https://pan.baidu.com/s/11VeVUmJKovOJsYqS3v2Tkw)  
-**提取码 | Extraction Code**: `9vph`
+- 🔗 [Download](https://pan.baidu.com/s/11VeVUmJKovOJsYqS3v2Tkw)  
+- **Extraction Code | 提取码:** `9vph`
 
 Please place the datasets under: | 请将数据集放置在以下目录：
 ```bash
