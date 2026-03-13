@@ -142,6 +142,38 @@ DP-Retinex/
 └── README.md                     # You're here 😄 (你在这里 😄)
 ```
 
+##🏋️ Training | 模型训练
+
+If you would like to train the model from scratch or reproduce the results in our paper, you can run the following training scripts.
+
+如果你希望从头训练模型或复现论文中的结果，可以运行以下训练脚本。
+
+## Stage 1: Encoder Extraction Training | 第一阶段：Encoder 预训练
+
+In the first stage, we train the encoder to extract reflectance and illumination representations.
+
+第一阶段用于训练 Encoder，以学习反射分量和光照分量的表示。
+
+python3 basicsr/train.py --opt Options/Retinex_Degradation_extract_LOL_v1.yml
+python3 basicsr/train.py --opt Options/Retinex_Degradation_extract_LOL_v2_real.yml
+python3 basicsr/train.py --opt Options/Retinex_Degradation_extract_LOL_v2_syn.yml
+python3 basicsr/train.py --opt Options/Retinex_Degradation_extract_SID.yml
+python3 basicsr/train.py --opt Options/Retinex_Degradation_extract_SDSD_indoor.yml
+python3 basicsr/train.py --opt Options/Retinex_Degradation_extract_SDSD_outdoor.yml
+
+##Stage 2: Full Model Training | 第二阶段：完整模型训练
+
+After obtaining the pretrained encoder, the full DP-Retinex model can be trained using the following commands.
+
+在获得 Encoder 预训练权重之后，可以使用以下命令训练完整的 DP-Retinex 模型：
+
+python3 basicsr/train.py --opt Options/Retinex_Degradation_LOL_v1.yml
+python3 basicsr/train.py --opt Options/Retinex_Degradation_LOL_v2_real.yml
+python3 basicsr/train.py --opt Options/Retinex_Degradation_LOL_v2_syn.yml
+python3 basicsr/train.py --opt Options/Retinex_Degradation_SID.yml
+python3 basicsr/train.py --opt Options/Retinex_Degradation_SDSD_indoor.yml
+python3 basicsr/train.py --opt Options/Retinex_Degradation_SDSD_outdoor.yml
+
 ---
 
 ## ⚡ Quick Testing | 快速测试
