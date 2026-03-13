@@ -37,7 +37,7 @@ data/LOLv2/
 
 We provide several pretrained models trained on different benchmarks. You can download all weights from the following links:
 
-我们提供了在不同基准数据集上训练的多个预训练模型。你可以从以下链接下载所有权重：
+我们提供了在不同基准数据集上训练的多个预训练模型（包含一阶段Encoder编码器的权重）。你可以从以下链接下载所有权重，放置pretrained_weights目录下面：
 
 🔗 **Google Drive | 谷歌云盘**: [Download Pretrained Weights](https://drive.google.com/drive/folders/1-kyiMzUDK6PN9Nafo7Jni3v5xjwlCUFf?usp=drive_link)
 
