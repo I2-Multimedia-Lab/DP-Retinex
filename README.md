@@ -41,6 +41,7 @@ We provide several pretrained models trained on different benchmarks. You can do
 
 🔗 **Google Drive | 谷歌云盘**: [Download Pretrained Weights](https://drive.google.com/drive/folders/1-kyiMzUDK6PN9Nafo7Jni3v5xjwlCUFf?usp=drive_link)
 
+
 Please organize them as: | 请按以下方式组织权重文件：
 ```bash
 pretrained_weights/
